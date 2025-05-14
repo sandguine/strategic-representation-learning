@@ -4,6 +4,9 @@ import pandas as pd
 from scipy.stats import entropy
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+import os
+os.environ["STREAMLIT_WATCH_USE_POLLING"] = "true"
+
 
 # Configure Streamlit to use polling instead of inotify
 st.set_option('server.fileWatcherType', 'poll')
