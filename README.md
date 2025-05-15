@@ -3,7 +3,7 @@ Learning compressed representations of co-player policies based on their strateg
 
 ## Method Overview
 
-This repository implements a method for learning compressed representations of co-player policies based on their strategic influence. Instead of modeling behavior directly, the method embeds co-policies according to how they affect the ego agent's incentives—i.e., how they change its best response.
+This repository implements a method for learning compressed representations of co-player policies based on their strategic influence. Instead of modeling behavior directly, the method embeds co-policies according to how they affect the ego agent's incentives i.e., how they change its best response.
 
 ### Key Components
 
