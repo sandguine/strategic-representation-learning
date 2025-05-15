@@ -1,9 +1,9 @@
 # strategic-representation-learning
-Learning compressed representations of co-player policies based on their strategic influence using soft best responses and contrastive learning.
+This work is under review as a part of RLC, CoCoMARL workshop 2025. Learning compressed representations of co-player policies based on their strategic influence using soft best responses and contrastive learning.
 
 ## Method Overview
 
-This work is under review as a part of RLC, CoCoMARL workshop 2025. This repository implements a method for learning compressed representations of co-player policies based on their strategic influence. Instead of modeling behavior directly, the method embeds co-policies according to how they affect the ego agent's incentives i.e., how they change its best response.
+This repository implements a method for learning compressed representations of co-player policies based on their strategic influence. Instead of modeling behavior directly, the method embeds co-policies according to how they affect the ego agent's incentives i.e., how they change its best response.
 
 ### Key Components
 
